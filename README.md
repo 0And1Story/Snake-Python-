@@ -1,6 +1,8 @@
 # Snake-Python-
 一个使用Pygame开发的贪吃蛇小游戏
 
+### 下载exe可执行文件请转至[Release](https://github.com/0And1Story/Snake-Python-/releases)
+
 #### 使用图片：
 
 ![使用图片](https://s2.ax1x.com/2019/07/28/eQMJTs.png)
